@@ -40,6 +40,8 @@ More details on [automated testing](./automated-testing/README.md)
 - [ ] Project runs CI with automated build and test on each PR.
 - [ ] Project uses CD to manage deployments to a replica environment before PRs are merged.
 - [ ] Main branch is always shippable.
+- [ ] Infrastructure as Code.
+- [ ] Pipelines Automation.
 
 More details on [continuous integration](./CI-CD/continuous-integration.md) and [continuous delivery](./CI-CD/continuous-delivery.md)
 

@@ -56,14 +56,9 @@ Architecture is designed by people, and during the project you will need to revi
 
 Here's a checklist of what you need before starting a DevSquad Project:
 
-- [ ] List of the people who will be involved in the assessment
-- [ ] Account with read access to the workload's subscription
-- [ ] Architecture diagrams of the current workload
-- [ ] If available, the roadmap for the next version
-- [ ] Prepare and block the meetings with all the people involved
-  - [ ] First two days with the owner and architects
-  - [ ] Third and fourth days to analyze the results and write-down the recommendations
-  - [ ] Fifth day to present the results to everyone and agree on the next steps
+- [ ] List of the people who will be involved in the project
+- [ ] Account with conrtibutor access to the azure subscription
+- [ ] Initial use case(s) or requirement(es) based on scope defined.
 
 Establish the rhythm of the architecture review and plan each day. Here's an example:
 

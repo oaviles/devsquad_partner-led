@@ -66,14 +66,14 @@ Establish the rhythm of the architecture review and plan each day. Here's an exa
 flowchart LR
 %%{init: {'flowchart':{'useMaxWidth': true}}}%%
 subgraph Discover
-A["<h2>Day 1 (Meetings)</h2>Kick-off meeting<br>Well-Architected survey"] 
-B["<h2>Day 2 (Meetings)</h2>Subscription walkthrough<br>Gather data with CCO Dashboard"]
+A["<h2>Day 1 (Meetings)</h2>Kick-off meeting<br>Architeure Design Session based on Well-Architected Framework"] 
+B["<h2>Day 2 (Meetings)</h2>Subscription walkthrough<br>Validate"]
 end
 subgraph Analyze
-C["<h2>Day 3 (Offline Work)</h2>Analyze data<br>Review recommendations"]
+C["<h2>Day 3 (Offline Work)</h2>Analyze Use Cases<br>Review recommendations"]
 end
 subgraph Prioritize
-D["<h2>Day 4 (Offline Work)</h2>Prioritize recommendations<br>Create the roadmap"]
+D["<h2>Day 4 (Offline Work)</h2>Prioritize Use Cases<br>Scope Aligment"]
 E["<h2>Day 5 (Meetings)</h2>Present recommendations<br>Discuss and reprioritize"]
 end
 

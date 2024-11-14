@@ -3,9 +3,9 @@
 > ⚠️**Work in progress** \
 This guide is still incomplete.
 
-The DevSquad Model Partner-Let contains a process to help partners to implment DevSecOps and Best Practices de build and deploy best in class projects on Azure. You can find a detailed explanation on how to use this guide in the "Issue Template" 
+The DevSquad Model Partner-Let contains a process to help partners to implement DevSecOps and Best Practices de build and deploy best in class projects on Azure. You can find a detailed explanation on how to use this guide in the "Issue Template" 
 
-This guide is intended to provide you with a step-by-step process to implment a mvp based on DevSecOps and Software Egineering Best Practices.
+This guide is intended to provide you with a step-by-step process to implement a mvp based on DevSecOps and Software Egineering Best Practices.
 
 In the DevSquad Model process we define five phases:
 

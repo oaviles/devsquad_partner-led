@@ -18,7 +18,7 @@ In the DevSquad Jouney we define seven phases:
 * Plan/Standardize/Refine (Code-With phase): Involves creating a detailed roadmap for the MVP, establishing consistent development practices, and continuously improving processes and features based on feedback. This ensures a structured and efficient soft development work.
 * Final Demo: Presenting the completed MVP to stakeholders, showcasing its features and functionality. This phase concludes with obtaining formal approval and feedback for the MVP's release.
 
-[Spanish Video available about DevSquad Jouney here:](https://1drv.ms/v/s!Arx5JRuoZdOEtboV9S0LhgANOkK7Hg?e=LfiP6S)
+[Spanish Video available about DevSquad Jouney here](https://1drv.ms/v/s!Arx5JRuoZdOEtboV9S0LhgANOkK7Hg?e=LfiP6S)
 
 ### DevSquad Model / Code-With Experience
 

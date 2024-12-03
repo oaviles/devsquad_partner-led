@@ -7,6 +7,21 @@ The DevSquad Model Partner-Led contains a process to help partners to implement 
 
 This guide is intended to provide you with a step-by-step process to implement a mvp based on DevSecOps and Software Egineering Best Practices.
 
+![DevSquad Jouney](images/DevSquad_Journey.jpg)
+
+In the DevSquad Jouney we define seven phases:
+
+* Identify Scenario: Means pinpointing specific situations where users will interact with the solution, detailing their goals and actions. This helps in understanding user needs and guiding feature development.
+* Logistics​ requirements: Refer to the necessary resources, timelines, and processes needed to support the development and delivery of the MVP. This includes aspects like team roles, tools, and Azure Tenant.
+* Kick-off​ / Ideation and Envisioning: Involves brainstorming and conceptualizing innovative ideas for the MVP, defining its core features and user experience. This phase sets the creative direction and vision for the solution.
+* Architecture Designs Sessions: Involve collaboratively defining the technical framework and structure of the MVP, ensuring scalability and robustness. These sessions outline system components, their interactions, and integration points.
+* Plan/Standardize/Refine (Code-With phase): Involves creating a detailed roadmap for the MVP, establishing consistent development practices, and continuously improving processes and features based on feedback. This ensures a structured and efficient soft development work.
+* Final Demo: Presenting the completed MVP to stakeholders, showcasing its features and functionality. This phase concludes with obtaining formal approval and feedback for the MVP's release.
+
+[Spanish Video available about DevSquad Jouney here:](https://1drv.ms/v/s!Arx5JRuoZdOEtboV9S0LhgANOkK7Hg?e=LfiP6S)
+
+### DevSquad Model / Code-With Experience
+
 In the DevSquad Model process we define five phases:
 
 ```mermaid
@@ -38,7 +53,7 @@ If you did not receive any training about Well-Architected Framework, you need f
 
 * [Well-Architected training for partners][partner-training]
 * [Well-Architected leaning path in Microsoft Docs][docs-training]
-* DevOps
+* [DevOps or DevSecOps Practices](https://learn.microsoft.com/en-us/training/paths/devops-foundations-core-principles-practices/)
 
 After this, check the next points: select your workload, define the scope and people and resources.
 
